@@ -7,6 +7,7 @@ sites:
     url: https://ip.saathoff.us
   - name: Recipes 
     url: https://recipes.saathoff.us
+    icon: https://recipes.saathoff.us/icons/favicon.ico
 
 
 status-website:
