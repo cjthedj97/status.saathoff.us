@@ -1,23 +1,5 @@
 [
   {
-    "name": "Recipes",
-    "url": "https://recipes.saathoff.us",
-    "icon": "https://favicons.githubusercontent.com/recipes.saathoff.us",
-    "slug": "recipes",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 200,
-    "timeWeek": 200,
-    "timeMonth": 200,
-    "timeYear": 200,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "IP Checker",
     "url": "https://ip.saathoff.us",
     "icon": "https://favicons.githubusercontent.com/ip.saathoff.us",
@@ -28,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 374,
-    "timeDay": 374,
-    "timeWeek": 374,
-    "timeMonth": 374,
-    "timeYear": 374,
+    "time": 366,
+    "timeDay": 366,
+    "timeWeek": 366,
+    "timeMonth": 366,
+    "timeYear": 366,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Recipes",
+    "url": "https://recipes.saathoff.us",
+    "icon": "https://favicons.githubusercontent.com/recipes.saathoff.us",
+    "slug": "recipes",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   }
 ]
