@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Recipes 
     url: https://recipes.saathoff.us
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: IP Checker
+    url: https://ip.saathoff.us
 
 status-website:
   theme: dark
