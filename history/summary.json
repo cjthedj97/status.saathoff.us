@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 364,
-    "timeWeek": 261,
-    "timeMonth": 256,
-    "timeYear": 256,
+    "time": 259,
+    "timeDay": 355,
+    "timeWeek": 269,
+    "timeMonth": 259,
+    "timeYear": 259,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 242,
-    "timeWeek": 165,
-    "timeMonth": 169,
-    "timeYear": 169,
+    "time": 170,
+    "timeDay": 230,
+    "timeWeek": 169,
+    "timeMonth": 170,
+    "timeYear": 170,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "This is a test",
-    "url": "https://thisisatest.saathoff.us",
-    "icon": "https://favicons.githubusercontent.com/thisisatest.saathoff.us",
-    "slug": "this-is-a-test",
-    "status": "down",
-    "uptime": "1.31%",
-    "uptimeDay": "1.31%",
-    "uptimeWeek": "1.31%",
-    "uptimeMonth": "1.31%",
-    "uptimeYear": "1.31%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-06-02": 0
-    }
   }
 ]
