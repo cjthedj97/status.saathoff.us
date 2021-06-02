@@ -8,9 +8,6 @@ sites:
   - name: Recipes 
     url: https://recipes.saathoff.us
     icon: https://recipes.saathoff.us/icons/favicon.ico
-  - name: This is a test
-    url: https://thisisatest.saathoff.us
-
 
 status-website:
   theme: light
