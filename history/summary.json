@@ -24,17 +24,19 @@
     "url": "https://recipes.saathoff.us",
     "icon": "https://recipes.saathoff.us/icons/favicon.ico",
     "slug": "recipes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 64,
-    "timeWeek": 135,
+    "timeDay": 124,
+    "timeWeek": 141,
     "timeMonth": 167,
     "timeYear": 167,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-11": 0
+    }
   }
 ]
