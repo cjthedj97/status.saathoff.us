@@ -4,9 +4,9 @@
     "url": "https://ip.saathoff.us",
     "icon": "https://favicons.githubusercontent.com/ip.saathoff.us",
     "slug": "ip-checker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 209,
     "timeMonth": 255,
     "timeYear": 255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-11": 0
+    }
   },
   {
     "name": "Recipes",
