@@ -48,19 +48,19 @@
     "url": "$FDROID",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "f-froid-repo",
-    "status": "down",
-    "uptime": "9.52%",
-    "uptimeDay": "9.52%",
-    "uptimeWeek": "9.52%",
-    "uptimeMonth": "9.52%",
-    "uptimeYear": "9.52%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "3.52%",
+    "uptimeDay": "3.52%",
+    "uptimeWeek": "3.52%",
+    "uptimeMonth": "3.52%",
+    "uptimeYear": "3.52%",
+    "time": 441,
+    "timeDay": 441,
+    "timeWeek": 441,
+    "timeMonth": 441,
+    "timeYear": 441,
     "dailyMinutesDown": {
-      "2021-09-29": 0
+      "2021-09-29": 3
     }
   }
 ]
