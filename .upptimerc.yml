@@ -8,6 +8,9 @@ sites:
   - name: Recipes 
     url: https://recipes.saathoff.us
     icon: https://recipes.saathoff.us/icons/favicon.ico
+  - name: F-Froid Repo
+    url: $FDROID
+    
 
 status-website:
   theme: light
