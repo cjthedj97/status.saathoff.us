@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 246,
-    "timeDay": 265,
-    "timeWeek": 270,
-    "timeMonth": 241,
-    "timeYear": 246,
+    "time": 247,
+    "timeDay": 324,
+    "timeWeek": 269,
+    "timeMonth": 242,
+    "timeYear": 247,
     "dailyMinutesDown": {
       "2021-06-11": 40
     }
@@ -25,14 +25,14 @@
     "icon": "https://recipes.saathoff.us/icons/favicon.ico",
     "slug": "recipes",
     "status": "up",
-    "uptime": "98.37%",
+    "uptime": "98.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.37%",
+    "uptimeYear": "98.38%",
     "time": 133,
-    "timeDay": 89,
-    "timeWeek": 105,
+    "timeDay": 113,
+    "timeWeek": 104,
     "timeMonth": 107,
     "timeYear": 133,
     "dailyMinutesDown": {
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 88,
-    "timeWeek": 109,
-    "timeMonth": 108,
+    "timeDay": 138,
+    "timeWeek": 112,
+    "timeMonth": 110,
     "timeYear": 123,
     "dailyMinutesDown": {}
   }
