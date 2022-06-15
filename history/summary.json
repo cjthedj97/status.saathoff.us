@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 241,
-    "timeDay": 143,
-    "timeWeek": 209,
-    "timeMonth": 224,
+    "timeDay": 276,
+    "timeWeek": 206,
+    "timeMonth": 228,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2022-03-22": 85,
@@ -30,15 +30,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.78%",
     "time": 134,
-    "timeDay": 156,
-    "timeWeek": 170,
+    "timeDay": 125,
+    "timeWeek": 166,
     "timeMonth": 153,
     "timeYear": 131,
-    "dailyMinutesDown": {
-      "2021-06-15": 1290
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "F-Froid Repo",
@@ -53,8 +51,8 @@
     "uptimeYear": "100.00%",
     "time": 133,
     "timeDay": 122,
-    "timeWeek": 152,
-    "timeMonth": 169,
+    "timeWeek": 147,
+    "timeMonth": 170,
     "timeYear": 133,
     "dailyMinutesDown": {}
   }
