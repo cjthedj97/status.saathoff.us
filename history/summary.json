@@ -35,18 +35,19 @@
     "url": "https://recipes.saathoff.us",
     "icon": "https://recipes.saathoff.us/icons/favicon.ico",
     "slug": "recipes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 140,
-    "timeDay": 126,
-    "timeWeek": 113,
-    "timeMonth": 124,
+    "timeDay": 184,
+    "timeWeek": 129,
+    "timeMonth": 128,
     "timeYear": 137,
     "dailyMinutesDown": {
+      "2023-10-30": 0,
       "2023-09-24": 16,
       "2022-11-13": 25
     }
@@ -56,18 +57,19 @@
     "url": "$FDROID",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "f-froid-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 100,
-    "timeWeek": 112,
+    "timeDay": 117,
+    "timeWeek": 115,
     "timeMonth": 121,
     "timeYear": 128,
     "dailyMinutesDown": {
+      "2023-10-30": 0,
       "2022-11-13": 25
     }
   }
