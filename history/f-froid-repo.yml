@@ -1,7 +1,7 @@
 url: $FDROID
-status: down
-code: 500
-responseTime: 133
-lastUpdated: 2023-10-30T19:59:36.306Z
+status: up
+code: 200
+responseTime: 157
+lastUpdated: 2023-10-30T20:28:43.842Z
 startTime: 2021-09-29T00:21:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
