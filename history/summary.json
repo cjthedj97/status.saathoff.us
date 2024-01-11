@@ -6,12 +6,12 @@
     "slug": "ip-checker",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "77.45%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.78%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "98.31%",
     "time": 213,
-    "timeDay": 81,
+    "timeDay": 127,
     "timeWeek": 133,
     "timeMonth": 165,
     "timeYear": 210,
@@ -56,9 +56,9 @@
     "url": "$FDROID",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "f-froid-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -68,6 +68,7 @@
     "timeMonth": 117,
     "timeYear": 118,
     "dailyMinutesDown": {
+      "2024-01-11": 0,
       "2023-10-30": 29
     }
   }
