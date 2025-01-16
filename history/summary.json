@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ip.saathoff.us.ico",
     "slug": "ip-checker",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 124,
-    "timeDay": 91,
-    "timeWeek": 91,
-    "timeMonth": 84,
-    "timeYear": 104,
+    "timeDay": 95,
+    "timeWeek": 94,
+    "timeMonth": 85,
+    "timeYear": 103,
     "dailyMinutesDown": {
       "2024-02-11": 218
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 187,
-    "timeWeek": 155,
+    "timeDay": 108,
+    "timeWeek": 154,
     "timeMonth": 145,
     "timeYear": 148,
     "dailyMinutesDown": {}
