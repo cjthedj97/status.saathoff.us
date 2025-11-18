@@ -4,19 +4,19 @@
     "url": "https://ip.saathoff.us",
     "icon": "https://icons.duckduckgo.com/ip3/ip.saathoff.us.ico",
     "slug": "ip-checker",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.99%",
     "time": 124,
-    "timeDay": 73,
-    "timeWeek": 102,
-    "timeMonth": 107,
+    "timeDay": 76,
+    "timeWeek": 100,
+    "timeMonth": 106,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 51
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://recipes.saathoff.us",
     "icon": "https://recipes.saathoff.us/icons/favicon.ico",
     "slug": "recipes",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 122,
-    "timeWeek": 176,
-    "timeMonth": 205,
-    "timeYear": 189,
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.99%",
+    "time": 180,
+    "timeDay": 186,
+    "timeWeek": 191,
+    "timeMonth": 208,
+    "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 51
     }
   }
 ]
