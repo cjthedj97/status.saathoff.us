@@ -6,14 +6,14 @@
     "slug": "ip-checker",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "96.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
     "time": 116,
-    "timeDay": 80,
-    "timeWeek": 96,
-    "timeMonth": 96,
+    "timeDay": 81,
+    "timeWeek": 98,
+    "timeMonth": 97,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2025-12-19": 47,
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 179,
-    "timeDay": 116,
-    "timeWeek": 168,
-    "timeMonth": 158,
-    "timeYear": 191,
+    "timeDay": 163,
+    "timeWeek": 175,
+    "timeMonth": 159,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2025-11-18": 158
     }
