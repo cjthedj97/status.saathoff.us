@@ -25,9 +25,9 @@
     "url": "https://recipes.saathoff.us",
     "icon": "https://recipes.saathoff.us/icons/favicon.ico",
     "slug": "recipes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -37,6 +37,7 @@
     "timeMonth": 170,
     "timeYear": 191,
     "dailyMinutesDown": {
+      "2026-02-03": 0,
       "2025-11-18": 158
     }
   }
